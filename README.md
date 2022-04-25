@@ -6,13 +6,13 @@ Esta es una solución al [Challenge](https://github.com/goncy/interview-challeng
 
 # Desktop Version
 
-![desktop-design-question](https://raw.githubusercontent.com/Yeimy7/guess.pokemon-challenge/assets/desktop1.png)
+![desktop-design-question](https://raw.githubusercontent.com/Yeimy7/guess-pokemon-challenge/assets/desktop1.png)
 
-![desktop-design-answer](https://raw.githubusercontent.com/Yeimy7/guess.pokemon-challenge/assets/desktop2.png)
+![desktop-design-answer](https://raw.githubusercontent.com/Yeimy7/guess-pokemon-challenge/assets/desktop2.png)
 
 # Mobile Version
 
-![mobile-design](https://raw.githubusercontent.com/Yeimy7/guess.pokemon-challenge/assets/mobile1.png)
+![mobile-design](https://raw.githubusercontent.com/Yeimy7/guess-pokemon-challenge/assets/mobile1.png)
 
 ## Construido con
 
@@ -22,7 +22,7 @@ Esta es una solución al [Challenge](https://github.com/goncy/interview-challeng
 
 - Clonar el repositorio
 
-  `git clone https://github.com/`
+  `git clone https://github.com/Yeimy7/guess-pokemon-challenge.git`
 
 - Instalar dependencias
 

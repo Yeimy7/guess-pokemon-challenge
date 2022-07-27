@@ -107,8 +107,8 @@ img {
 
 .glint {
   color: white;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   background-color: white;
   border-radius: 50%;
   z-index: -1;
@@ -117,8 +117,8 @@ img {
     0 0 12px 60px rgba(55, 255, 255, .8),
     0 0 20px 90px rgba(50, 100, 151, .5),
     0 0 30px 110px rgba(50, 100, 151, .5),
-    0 0 40px 130px rgba(50, 100, 151, .5),
-    0 0 50px 150px rgba(50, 100, 151, .5),
+    0 0 35px 115px rgba(50, 100, 151, .5),
+    0 0 40px 120px rgba(50, 100, 151, .5),
     0 0 100px 180px rgba(50, 100, 151, .5);
 }
 
